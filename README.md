@@ -34,10 +34,10 @@ A website that helps kids learn basics such as shapes, animals, and fruits. Depe
   * All PHP files contains DocBlock and Follows Pear Standards. 
 
 :heavy_check_mark: 8. Has full validation on the client side through JavaScript and server side through PHP.
-  * User and ProUser sign up, and Creation form has full validation on client through JavaScript under scripts folder and server side through PHP.
+  * User and ProUser sign up, and Creation form has full validation on the client side through JavaScript (scripts/validate.js) and server side through PHP (model/validate.PHP). 
 
 :heavy_check_mark: 9. All code is clean, clear, and well-commented. DRY (Don't Repeat Yourself) is practiced.
-  * All functions and files are commented and avoid redundancy. 
+  * All functions and files are commented. Any code that was repeated was turned into a function and called upon instead of repeating code.
 
 :heavy_check_mark: 10. Your submission shows adequate effort for a final project in a full-stack web development course.
   * We learned quite a bit this quarter and we think our project was able to incorporate everything and then some! We definitely did not take the easy route!
